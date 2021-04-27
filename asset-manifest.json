@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pay-calculator/static/css/main.e22bd27c.chunk.css",
+    "main.js": "/pay-calculator/static/js/main.18254391.chunk.js",
+    "main.js.map": "/pay-calculator/static/js/main.18254391.chunk.js.map",
+    "runtime-main.js": "/pay-calculator/static/js/runtime-main.019f6cf8.js",
+    "runtime-main.js.map": "/pay-calculator/static/js/runtime-main.019f6cf8.js.map",
+    "static/js/2.b0a7bd4f.chunk.js": "/pay-calculator/static/js/2.b0a7bd4f.chunk.js",
+    "static/js/2.b0a7bd4f.chunk.js.map": "/pay-calculator/static/js/2.b0a7bd4f.chunk.js.map",
+    "index.html": "/pay-calculator/index.html",
+    "static/css/main.e22bd27c.chunk.css.map": "/pay-calculator/static/css/main.e22bd27c.chunk.css.map",
+    "static/js/2.b0a7bd4f.chunk.js.LICENSE.txt": "/pay-calculator/static/js/2.b0a7bd4f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.019f6cf8.js",
+    "static/js/2.b0a7bd4f.chunk.js",
+    "static/css/main.e22bd27c.chunk.css",
+    "static/js/main.18254391.chunk.js"
+  ]
+}
